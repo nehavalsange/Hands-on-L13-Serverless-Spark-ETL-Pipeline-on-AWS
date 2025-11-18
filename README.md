@@ -87,6 +87,12 @@ This function will start the Glue job when a file is uploaded.
 #### 5a. Add Lambda Code
 Paste the contents of `src/lambda_function.py` into the code editor. Make sure the `GLUE_JOB_NAME` variable matches the name of your Glue job (`process_reviews_job`).
 
+<img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/d0428bf7-d3f2-476f-b64d-4b6f0830a759" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/aa935240-f631-44e9-8098-c80181097901" />
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8843a0d6-4cd2-47a9-bfe3-47fbb138bad7" />
+
+
+
 #### 5b. Add Lambda Permissions
 The new Lambda role needs permission to start a Glue job.
 1.  Go to the function's **Configuration** > **Permissions** tab and click the role name.
