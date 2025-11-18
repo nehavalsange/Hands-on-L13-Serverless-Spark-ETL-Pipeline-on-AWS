@@ -147,6 +147,8 @@ After the job (which may take 2-3 minutes to run), navigate to your `handsonfina
 
 You will also find the complete, cleaned dataset in `s3://handsonfinalprocessed/processed-data/`.
 
+<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/617301cd-92b1-430b-a782-bdcdb7d2fa69" />
+
 
 ---
 ## 🧹 Cleanup
