@@ -125,6 +125,10 @@ Your pipeline is now fully deployed and automated!
 3.  This will trigger the Lambda, which in turn starts the Glue job.
 4.  You can monitor the job's progress in the **AWS Glue** console under the **Monitoring** tab.
 
+## AWS Glue Monitoring screenshot
+
+<img width="1919" height="1142" alt="image" src="https://github.com/user-attachments/assets/4ad9c06e-49e9-44f0-af86-3afa5d7edd47" />
+
 ---
 
 ## 📈 Query Results
@@ -136,6 +140,7 @@ After the job (which may take 2-3 minutes to run), navigate to your `handsonfina
 * `s3://handsonfinalprocessed/Athena Results/rating_distribution/`
 
 You will also find the complete, cleaned dataset in `s3://handsonfinalprocessed/processed-data/`.
+
 
 ---
 ## 🧹 Cleanup
